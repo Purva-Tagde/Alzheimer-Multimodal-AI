@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+pydicom
+numpy
+pandas
+pillow
+grad-cam

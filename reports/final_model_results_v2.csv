@@ -1,0 +1,5 @@
+Model,Feature Set,Accuracy,Precision,Recall,Specificity,F1,ROC-AUC,AUPRC,Brier
+Logistic Regression,224,0.9146,0.4,0.5455,0.9412,0.4615,0.8568,0.3661,0.0698
+Random Forest,224,0.9451,0.6,0.5455,0.9739,0.5714,0.8853,0.4973,0.0479
+XGBoost,224,0.9451,0.75,0.2727,0.9935,0.4,0.9156,0.5405,0.0449
+Final Multimodal Ensemble,50 selected,0.9634,0.7778,0.6364,0.9869,0.7,0.899,0.5555,0.04

@@ -1,0 +1,51 @@
+﻿# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+license.txt
+*.pem
+*.key
+
+# Restricted healthcare datasets
+data/raw/
+data/processed/
+
+# Archives and temporary files
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary Python files
+.pytest_cache/
+.mypy_cache/
+
+# Exclude all local healthcare data
+data/
+
+
+# Large raw-MRI demonstration model
+models/adni_resnet18_5slice_baseline.pth
+
+
+# Old dashboard backups
+dashboard/archive/
+
+
+# Notebook with saved healthcare data outputs
+notebooks/01_data_loading.ipynb
+
+
+# Old dashboard backups
+dashboard/archive/
+

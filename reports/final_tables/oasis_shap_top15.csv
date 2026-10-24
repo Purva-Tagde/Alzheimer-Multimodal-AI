@@ -1,0 +1,16 @@
+Rank,Feature,Mean_Absolute_SHAP
+1,asscmem,0.061576
+2,PSY019,0.047887
+3,srtfree,0.040633
+4,lettnum,0.02492
+5,VEG,0.023125
+6,digsym,0.021542
+7,srt1f,0.019215
+8,PSY021,0.016252
+9,TOTAL_HIPPOCAMPUS_VOLUME,0.016134
+10,Right-Hippocampus_volume,0.014452
+11,srt2f,0.013842
+12,Right-Inf-Lat-Vent_volume,0.013624
+13,switch,0.013514
+14,lh_middletemporal_thickness,0.012448
+15,rh_inferiorparietal_thickness,0.011866
